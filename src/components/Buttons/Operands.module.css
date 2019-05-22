@@ -1,9 +1,10 @@
-.button{
+.operands{
     display: inline-block;
     width: 24.9%;
     height: 15vh;
-    background-color: #424242;
+    background-color: #F49637;
     border: 1px solid black;
+    vertical-align: top;
 }
 
 

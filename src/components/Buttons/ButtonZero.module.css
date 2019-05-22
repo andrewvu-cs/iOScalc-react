@@ -1,0 +1,14 @@
+
+.button0{
+    width: 49.9%;
+    height: 15vh;
+    text-align: center;
+    display: inline-block;
+    background-color: #424242;
+    border: 1px solid black;
+    vertical-align: top;
+}
+
+.text{
+    color: white;
+}
